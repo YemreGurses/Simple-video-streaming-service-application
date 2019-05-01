@@ -5,6 +5,7 @@ Needs maven for dependencies.
 After running the application, you should see this in the terminal: 
 
 *** Please enter one of the following comands ***
+
 sign_up <email> <password> <first_name> <last_name> <plan_id>
 
 sign_in <email> <password>
