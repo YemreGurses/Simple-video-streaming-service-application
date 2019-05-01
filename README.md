@@ -1,7 +1,7 @@
 # Simple Video Streaming Service Application
 
 
-Needs maven for dependencies. 
+Needs maven for dependencies. Fill the proper credentials in the dbconn.CONFIG file.
 After running the application, you should see this in the terminal: 
 
 *** Please enter one of the following comands ***
