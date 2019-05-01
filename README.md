@@ -1,5 +1,6 @@
 # Simple Video Streaming Service Application
 
+This service is an emulation of providing video streams to customers. Videos of all the movies in the IMDB database is provided to the customers. First, creates a database for customers and specifies plans, customers, subscriptions etc. and next, it will create an application to allow customers to use the service.
 
 Needs maven for dependencies. Fill the proper credentials in the dbconn.CONFIG file.
 After running the application, you should see this in the terminal: 
